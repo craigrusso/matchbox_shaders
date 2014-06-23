@@ -5,7 +5,7 @@
 	Website: www.crusso.com
 	
 	Date Created: 5/10/2014
-	version: .01
+	version: .02
 
 	Based on : https://gist.github.com/rgngl/5565102
 
